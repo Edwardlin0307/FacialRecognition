@@ -16,7 +16,7 @@ Step 2｜蒐集人臉資料
 Step 3｜訓練模型
 執行train_model.py
 
-會將使用蒐集到的人臉影像產生 me_lbph_model.yml
+會將蒐集到的人臉影像產生 me_lbph_model.yml
 
 Step 4｜啟動系統
 執行run.py
