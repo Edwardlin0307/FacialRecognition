@@ -20,10 +20,10 @@ Step 3｜啟動系統
 
 將鏡頭正對人臉，偵測到人臉後自動進入辨識(必須非常正對不然無法辨識)
 
-待機	      PLEASE FACE CAMERA
-辨識中	      VERIFYING
-成功	      ACCESS GRANTED
-失敗	      ACCESS DENIED
+待機:	      PLEASE FACE CAMERA
+辨識中:      VERIFYING
+成功:	      ACCESS GRANTED
+失敗:	      ACCESS DENIED
 
 辨識失敗時，透過 LINE 傳送警告訊息，並且將辨識失敗的面部進行拍照並且存到資料夾evidence
 
