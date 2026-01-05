@@ -5,7 +5,7 @@
 
 使用流程
 
-Step 1｜將全部檔案下載進同一個資料夾，並且將.env
+Step 1｜將全部檔案下載進同一個資料夾，並且填上.env檔案裡的 LINE_CHANNEL_ACCESS_TOKEN和LINE_USER_ID 
 
 
 Step 2｜蒐集人臉資料
